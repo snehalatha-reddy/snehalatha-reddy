@@ -63,9 +63,9 @@ I’m a full-stack developer dedicated to building high-efficiency web applicati
 
 ## 🌐 Socials:
 
-linkedin: https://www.linkedin.com/in/ysnehalathareddy200517/
-git hub: https://github.com/snehalatha-reddy
-mailto: ysnehalathareddy17@gmail.com
+- linkedin: https://www.linkedin.com/in/ysnehalathareddy200517/
+- git hub: https://github.com/snehalatha-reddy
+- mailto: ysnehalathareddy17@gmail.com
 
 -----
 
