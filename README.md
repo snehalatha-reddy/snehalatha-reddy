@@ -1,89 +1,68 @@
-<h2 align="center">Hi, I'm Snehalatha Reddy 💻</h2>
+\<h2 align="center"\>Hi, I'm Snehalatha Reddy Yarrappagari 👩‍💻✨\</h2\>
 
-<p align="center">
- 🚀 MERN Stack Developer | ☁️ AWS Certified |⚡Salesforce certified | 🤖 AI + Full-Stack Enthusiast
-</p>
+\<p align="center"\>
+☁️ AWS Certified Developer | 🚀 MERN Stack Developer | 🤖 AI Enthusiast | 🔧 Building Scalable Solutions
+\</p\>
 
----
+-----
 
 # 💫 About Me:
 
-I’m a **Computer Science and Engineering student** with hands-on experience in building **real-world full-stack applications** and improving system efficiency.
+[cite_start]I’m a full-stack developer dedicated to building high-efficiency web applications and automating complex workflows[cite: 4, 5]. [cite_start]With a strong foundation in **cloud architecture** and **MERN stack development**, I enjoy bridging the gap between robust backend logic and intuitive user experiences[cite: 4, 11].
 
-I focus on developing **scalable web solutions**, automating workflows, and integrating **AI-driven tools** to enhance productivity.
+  - 📍 Based in Tirupati, India | [cite_start]B.Tech @ Sri Venkateswara College of Engineering (CGPA: 8.89) [cite: 2, 46, 48]
+  - [cite_start]🧑‍💻 Skilled in React.js, Node.js, Python, and AWS Cloud services [cite: 7, 9]
+  - [cite_start]🧠 Recently engineered a LangChain-based AI orchestration system, boosting automation efficiency by 25% [cite: 43]
+  - [cite_start]📜 Multiple AWS and Salesforce certifications in Cloud and AI [cite: 11, 12, 14, 15]
 
-* 📍 Final Year Student | CGPA: **8.89**
-* 💻 Strong in **MERN Stack Development**
-* ☁️ AWS Certified (Developer, Cloud, AI)
-* 🤖 Experience with **AI tools & automation workflows**
-* 📊 Passionate about **data-driven solutions & dashboards**
-
----
+-----
 
 # 💻 Tech Stack:
 
-**Frontend:** HTML • CSS • JavaScript • React.js • Bootstrap • Tailwind
-**Backend:** Node.js • Express.js • Python
-**Database:** MongoDB • MySQL
-**Tools:** Git • GitHub • Power BI • AWS (EC2, S3) • VS Code
+          
 
----
+-----
 
-# 🚀 Featured Projects:
+# 🚀 Featured Projects
 
-### 🏠 House Hunt (MERN Stack)
+| Project | Description |
+|--------|-------------|
+| 🏛️ [**Smart Grievance System**](https://github.com/snehalatha-reddy) | Panchayat Raj grievance portal that reduced resolution time by 40%. [cite_start]Received DLPO Certificate of Appreciation[cite: 28, 31]. |
+| ☁️ [**Student Task Manager**](https://github.com/snehalatha-reddy) | [cite_start]AWS EC2 deployed app using Apache Web Server with persistent CRUD functionality via Local Storage[cite: 18, 23, 24]. |
+| 🏡 [**House Hunt**](https://github.com/snehalatha-reddy) | [cite_start]MERN stack property listing platform with role-based access control and advanced filtering[cite: 33, 34, 36]. |
+| 🤖 [**AI Fitness Planner**](https://github.com/snehalatha-reddy) | [cite_start]LangChain-based agent orchestration system developed during Infosys internship[cite: 43]. |
 
-* Built a full-stack property listing platform with **CRUD + role-based access**
-* Implemented **authentication & advanced search filters**
-* Improved user experience with dynamic UI
+> Explore all my repositories [here →](https://www.google.com/search?q=https://github.com/snehalatha-reddy%3Ftab%3Drepositories)
 
----
+-----
 
-### 📝 Smart Grievance System
+# 🛡️ Cloud & AI Certifications
 
-* Developed for **Panchayat Raj Department**
-* ⬇️ Reduced complaint resolution time by **40%**
-* Implemented **real-time tracking & role-based access**
-* 🏆 Received **Certificate of Appreciation (DLPO)**
+ 
 
----
+  - [cite_start]✅ **AWS Certified Developer – Associate** [cite: 11]
+  - [cite_start]✅ **AWS Certified Cloud Practitioner** [cite: 12]
+  - [cite_start]✅ **AWS Certified AI Practitioner** [cite: 14]
+  - [cite_start]✅ **Salesforce Certified AI Associate** [cite: 15]
+  - [cite_start]✅ **Salesforce Certified Agentforce Specialist** [cite: 16]
 
-### 📊 Student Task Manager (AWS Deployment)
+-----
 
-* Deployed application on **AWS EC2 using Apache**
-* Implemented **CRUD operations with Local Storage**
-* Configured **IAM roles for secure access control**
+## 🏅 Professional Highlights
 
----
+  - [cite_start]🎓 **Sri Venkateswara College of Engineering** – Bachelor of Technology in Computer Science (8.89 CGPA) [cite: 46, 47, 48]
+  - [cite_start]🏫 **NxtWave Teaching Assistant** – Mentored 50+ students in programming fundamentals and debugging[cite: 38, 40].
+  - [cite_start]🏛️ **DLPO Recognition** – Received official appreciation for digitizing the Panchayat Raj grievance system[cite: 31].
 
-### 🤖 AI Diet & Fitness Planner (Internship Project)
+-----
 
-* Built using **LangChain-based agent system**
-* ⬆️ Improved automation efficiency by **25%**
-* ⬇️ Reduced manual prompt effort by **30%**
-* Integrated APIs and optimized workflows
+## 🌐 Socials:
 
----
+[](https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/ysnehalathareddy200517/%5D\(https://www.linkedin.com/in/ysnehalathareddy200517/\))  
+[](https://github.com/snehalatha-reddy)  
+[](mailto:ysnehalathareddy17@gmail.com)
 
-# 🏢 Experience:
-
-### 👩‍🏫 Teaching Assistant – NxtWave
-
-* Mentored **50+ students** in coding & debugging
-* Reviewed **100+ assignments**, improving logical thinking
-* Helped reduce repeated errors through structured feedback
-
----
-
-# 🏅 Certifications:
-
-* ☁️ AWS Certified Developer – Associate
-* ☁️ AWS Certified Cloud Practitioner
-* ☁️ AWS Certified AI Practitioner
-* ⚡ Salesforce Certified AI Associate
-* ⚡ Salesforce Agentforce Specialist
-
----
+-----
 
 # 📊 GitHub Stats:
 
@@ -91,14 +70,6 @@ I focus on developing **scalable web solutions**, automating workflows, and inte
   <img src="https://github-readme-stats.vercel.app/api?username=snehalatha-reddy&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehalatha-reddy&theme=tokyonight" />
 </p>
-
----
-
-# 🌐 Connect With Me:
-
-* 💼 LinkedIn: https://linkedin.com/in/ysnehalathareddy200517
-* 📧 Email: [ysnehalathareddy17@gmail.com](mailto:ysnehalathareddy17@gmail.com)
-* 💻 GitHub: https://github.com/snehalatha-reddy
 
 ---
 
