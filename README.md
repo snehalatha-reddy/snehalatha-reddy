@@ -19,11 +19,11 @@ I’m a full-stack developer dedicated to building high-efficiency web applicati
 
 # 💻 Tech Stack:
 
-**Frontend**  : HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
-**Backend**   : Node.js, Express.js, Python
-**Databases** : MySQL
-**Concepts**  : Data Structures (Basic), OOP, REST APIs, Agile, SDLC
-**Tools**     : Git, GitHub, VS Code, Power BI, AWS (EC2, S3 – Basic)
+- **Frontend**  : HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
+- **Backend**   : Node.js, Express.js, Python
+- **Databases** : MySQL
+- **Concepts**  : Data Structures (Basic), OOP, REST APIs, Agile, SDLC
+- **Tools**     : Git, GitHub, VS Code, Power BI, AWS (EC2, S3 – Basic)
           
 
 -----
