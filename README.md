@@ -1,6 +1,6 @@
 <h1 align="center"\>Hi, I'm Snehalatha Reddy Yarrappagari 💻</h1\>
 
-<p font-size=10px align="center"\>
+<p style="font-size:12px;" align="center"\>
 ☁️ AWS Certified Developer | 🚀 MERN Stack Developer | 🤖 AI Enthusiast | 🔧 Building Scalable Solutions
 </p\>
 
